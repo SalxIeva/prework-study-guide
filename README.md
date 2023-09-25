@@ -1,7 +1,7 @@
 # Ieva's PreWork Study Guide
 
 ## Decsription
-A study guide for study pre-work.
+A study guide for pre-work study purpose.
 
 
 - My motivation was wanting to learn new things and improve my knowledge.
